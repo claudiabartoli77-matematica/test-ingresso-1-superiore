@@ -1,6 +1,10 @@
 TEST D'INGRESSO - PRIMA SUPERIORE
 
-Carica index.html e scuola-mate-carl.png nello stesso livello del repository GitHub.
+Carica nello stesso livello del repository GitHub:
+- index.html
+- scuola-mate-carl.png
+- benvenuto-circonia.png
+- benvenuto-siracusa.png
 Attiva GitHub Pages dalle impostazioni del repository.
 
 Il test contiene 10 stanze e 30 quesiti. A ogni nuovo tentativo viene estratta

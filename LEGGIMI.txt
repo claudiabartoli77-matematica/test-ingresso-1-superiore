@@ -1,0 +1,8 @@
+TEST D'INGRESSO - PRIMA SUPERIORE
+
+Carica index.html e scuola-mate-carl.png nello stesso livello del repository GitHub.
+Attiva GitHub Pages dalle impostazioni del repository.
+
+Il test contiene 10 stanze e 30 quesiti. A ogni nuovo tentativo viene estratta
+una delle due varianti di ciascun quesito e le opzioni vengono rimescolate.
+Nessun dato personale viene trasmesso o conservato.
